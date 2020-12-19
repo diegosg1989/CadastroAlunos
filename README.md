@@ -13,7 +13,10 @@ Este projeto foi desenvolvido utilisando Java 8, TDD, Mockito, Swagger, Spring e
 
 ## Projeto
 
-Projeto refetente a um processo seletivo. Foi desenvolvido uma solução simple para cadastro de alunos.
+Projeto refetente a um processo seletivo. Foi desenvolvido uma solução simple para cadastro de alunos. 
+Além de o projeto ser uma api, ele também consulta uma api externa para inserir os dados no banco.
+
+  - API externa: `https://my-json-server.typicode.com/diegosg1989/ApiAlunosTeste/db`
 
 ## Como executar?
 
