@@ -10,7 +10,7 @@
 ## Topologia
 
 <p align="center">
-  <img alt="topologia" src=".github/topologia.png" width="100%">
+  <img alt="topologia" src="https://github.com/diegosg1989/CadastroAlunos/blob/main/topologia.png" width="100%">
 </p>
 
 ## Tecnologias
