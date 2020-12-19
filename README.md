@@ -31,4 +31,4 @@ Além de o projeto ser uma api, ele também consulta uma api externa para inseri
   
   - Acessar a pasta **frontend** para executar com os comandos:
     - `npm install` realizar os imports necessários dos modulos para execução do React.js
-    - `nom start`para abrir a aplicação no browser
+    - `npm start`para abrir a aplicação no browser
