@@ -1,0 +1,6 @@
+br/com/alunos/AlunosApplicationTests.java
+ br.com.alunos.AlunosApplicationTests
+br/com/alunos/service/TesteAlunoService.java
+ br.com.alunos.service.TesteAlunoService
+br/com/alunos/entity/TesteAluno.java
+ br.com.alunos.entity.TesteAluno

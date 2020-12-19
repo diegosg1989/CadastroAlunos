@@ -1,0 +1,22 @@
+br/com/alunos/dto/AlunoCreateUpdateDTO.java
+ br.com.alunos.dto.AlunoCreateUpdateDTO
+br/com/alunos/dto/AlunoDTO.java
+ br.com.alunos.dto.AlunoDTO
+br/com/alunos/repository/AlunoRepository.java
+ br.com.alunos.repository.AlunoRepository
+br/com/alunos/entity/Aluno.java
+ br.com.alunos.entity.Aluno
+br/com/alunos/config/SwaggerUiWebMvcConfigurer.java
+ br.com.alunos.config.SwaggerUiWebMvcConfigurer
+br/com/alunos/service/AlunoServiceImpl.java
+ br.com.alunos.service.AlunoServiceImpl
+br/com/alunos/dto/AlunoUpdateSerieDTO.java
+ br.com.alunos.dto.AlunoUpdateSerieDTO
+br/com/alunos/controller/AlunoController.java
+ br.com.alunos.controller.AlunoController
+br/com/alunos/AlunosApplication.java
+ br.com.alunos.AlunosApplication
+br/com/alunos/service/AlunoService.java
+ br.com.alunos.service.AlunoService
+br/com/alunos/config/JpaConfig.java
+ br.com.alunos.config.JpaConfig
