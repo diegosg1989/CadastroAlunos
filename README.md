@@ -32,3 +32,5 @@ Além de o projeto ser uma api, ele também consulta uma api externa para inseri
   - Acessar a pasta **frontend** para executar com os comandos:
     - `npm install` realizar os imports necessários dos modulos para execução do React.js
     - `npm start`para abrir a aplicação no browser
+    
+- Após subir o sistema é possivel acessar a documentação da api no swagger pelo link `http://localhost:8081/swagger-ui/#/`
