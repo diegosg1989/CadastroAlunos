@@ -9,7 +9,7 @@
 
 ## Tecnologias
 
-Este projeto foi desenvolvido utilisando Java 8, TDD, Mockito, Swagger, Spring e React.js
+Este projeto foi desenvolvido utilisando Java 8, TDD, Mockito, Swagger, Spring, React.js e banco de dados H2
 
 ## Projeto
 
