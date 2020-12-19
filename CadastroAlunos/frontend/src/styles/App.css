@@ -1,0 +1,23 @@
+.title{
+ text-align: center;
+ margin-top: 80px;
+ color: #fff;
+}
+.container {
+  margin-top: 5rem;
+}
+
+h1{
+  color: #fff;
+}
+
+.hr {
+  margin-bottom: 2rem;
+  color: #fff;
+}
+
+.form {
+  padding: 1rem;
+  background-color: #efefef;
+  border-radius: 1rem;
+}
