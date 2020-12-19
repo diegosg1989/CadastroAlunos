@@ -23,14 +23,14 @@ Além de o projeto ser uma api, ele também consulta uma api externa para inseri
   - Baixar o projeto: `$ git clone https://github.com/diegosg1989/CadastroAlunos.git`
   - Importar o projeto na IDE de sua escolha
   
-  **Back-end:**
+    **Back-end:**
 
-  - Acessar a pasta **alunos**, o arquivo **build.gradle** contém todas as dependencias necessárias para a importação no projeto. Acessa a classe **AlunosApplication.java** e executar como Spring Boot App.
+    - Acessar a pasta **alunos**, o arquivo **build.gradle** contém todas as dependencias necessárias para a importação no projeto. Acessa a classe **AlunosApplication.java** e executar como Spring Boot App.
   
-  **Front-end:**  
+    **Front-end:**  
   
-  - Acessar a pasta **frontend** para executar com os comandos:
-    - `npm install` realizar os imports necessários dos modulos para execução do React.js
-    - `npm start`para abrir a aplicação no browser
+    - Acessar a pasta **frontend** para executar com os comandos:
+      - `npm install` realizar os imports necessários dos modulos para execução do React.js
+      - `npm start`para abrir a aplicação no browser
     
-- Após subir o sistema é possivel acessar a documentação da api no swagger pelo link `http://localhost:8081/swagger-ui/#/`
+  - Após subir o sistema é possivel acessar a documentação da api no swagger pelo link `http://localhost:8081/swagger-ui/#/`
