@@ -7,6 +7,12 @@
   <a href="#executar">Como executar?</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+## Topologia
+
+<p align="center">
+  <img alt="topologia" src=".github/topologia.png" width="100%">
+</p>
+
 ## Tecnologias
 
 Este projeto foi desenvolvido utilisando Java 8, TDD, Mockito, Swagger, Spring, React.js e banco de dados H2
