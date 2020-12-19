@@ -20,10 +20,11 @@ Além de o projeto ser uma api, ele também consulta uma api externa para inseri
 
 ## Como executar?
 
-  **Back-end:**
-
   - Baixar o projeto: `$ git clone https://github.com/diegosg1989/CadastroAlunos.git`
   - Importar o projeto na IDE de sua escolha
+  
+  **Back-end:**
+
   - Acessar a pasta **alunos**, o arquivo **build.gradle** contém todas as dependencias necessárias para a importação no projeto. Acessa a classe **AlunosApplication.java** e executar como Spring Boot App.
   
   **Front-end:**  
