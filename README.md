@@ -1,2 +1,30 @@
-# CadastroAlunos
-API Cadastro de Alunos
+<h1 align="center">API - Cadastro de Alunos</h1>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-topologia">Topologia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-executar">Como executar ?</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+## Tecnologias
+
+Este projeto foi desenvolvido utilisando Java 8, TDD, Mockito, Swagger, Spring e React.js
+
+## Projeto
+
+Projeto refetente a um processo seletivo. Foi desenvolvido uma solução simple para cadastro de alunos.
+
+## Como executar?
+
+  **Back-end:**
+
+  - Baixar o projeto: `$ git clone https://github.com/diegosg1989/CadastroAlunos.git`
+  - Importar o projeto na IDE de sua escolha
+  - Acessar a pasta **alunos**, o arquivo **build.gradle** contém todas as dependencias necessárias para a importação no projeto. Acessa a classe **AlunosApplication.java** e executar como Spring Boot App.
+  
+  **Front-end:**  
+  
+  - Acessar a pasta **frontend** para executar com os comandos:
+    - `npm install` realizar os imports necessários dos modulos para execução do React.js
+    - `nom start`para abrir a aplicação no browser
